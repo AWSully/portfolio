@@ -1179,6 +1179,10 @@ section {
   color: #fff;
 }
 
+.phone {
+  display: none;
+}
+
 .contact .php-email-form {
   width: 100%;
   background: #fff;
